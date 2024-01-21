@@ -1,0 +1,30 @@
+.doublebubble div {
+    margin: auto;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    display: flex;
+    margin: auto;
+}
+
+.doublebubble p {
+    margin: auto;
+    align-items: center;
+}
+
+.doublebubble a {
+    background-color: rgb(231, 167, 188);
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+}
+
+.doublebubble a:hover {
+    background-color: white;
+    color: rgb(231, 167, 188);
+}

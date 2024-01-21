@@ -1,0 +1,26 @@
+.gatorade div {
+    margin: auto;
+    display: inline-block;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    display: flex;
+    margin: auto;
+}
+
+.gatorade a {
+    background-color: rgb(103, 188, 233);
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+}
+
+.gatorade a:hover {
+    background-color: white;
+    color: rgb(103, 188, 233);
+}

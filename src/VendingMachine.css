@@ -1,0 +1,49 @@
+.vending div {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.vending-machine div {
+    display: inline-flex;
+    align-items: center;
+}
+
+.vending-machine .greeting {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    align-items: center;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    display: flex;
+    margin: auto;
+}
+
+.vending-machine h3 {
+    margin: 15px 200px;
+}
+
+.vending-machine a {
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    padding: 10px;
+    background-color: rgb(236, 109, 109);
+    color:white;
+    text-decoration: none;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.vending-machine a:hover {
+    background-color: white;
+    color: rgb(236, 109, 109);
+}
+

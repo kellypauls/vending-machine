@@ -1,0 +1,27 @@
+.popcorn div {
+    margin: auto;
+    display: inline-block;
+}
+
+.popcorn img {
+    width: auto;
+    height: 500px;
+    display: flex;
+    margin: auto;
+    padding: 10px;
+}
+
+.popcorn a {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+}
+
+.popcorn a:hover {
+    background-color: white;
+    color: black;
+}
